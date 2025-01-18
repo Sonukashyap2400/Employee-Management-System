@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { AuthContext } from '../../contex/AuthProvider'
+import { AuthContext } from '../../contex/Authprovider'
 
 const Alltask = () => {
 

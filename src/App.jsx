@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import Login from './components/Auth/Login'
 import Employeedashboard from './components/Dashboard/Employeedashboard'
 import Admindashboard from './components/Dashboard/Admindashboard'
-import {AuthContext} from './contex/AuthProvider'
+import { AuthContext } from './contex/Authprovider'
 
 const App = () => {
 
