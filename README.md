@@ -15,9 +15,8 @@ The **Employee Management System** is a web-based application designed to manage
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js (if applicable)
-- **Database**: MongoDB/MySQL (mention the one you are using, or remove this if N/A)
+- **Frontend**: HTML, CSS, JavaScript,React
+-
 - **Tools**: VS Code, Git, GitHub
 
 ---
